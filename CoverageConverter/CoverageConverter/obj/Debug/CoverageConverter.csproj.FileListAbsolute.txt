@@ -1,0 +1,10 @@
+C:\CoverageConverter\CoverageConverter\bin\Debug\CoverageConverter.exe.config
+C:\CoverageConverter\CoverageConverter\bin\Debug\CoverageConverter.exe
+C:\CoverageConverter\CoverageConverter\bin\Debug\CoverageConverter.pdb
+C:\CoverageConverter\CoverageConverter\bin\Debug\Microsoft.VisualStudio.Coverage.Analysis.dll
+C:\CoverageConverter\CoverageConverter\bin\Debug\Microsoft.VisualStudio.Coverage.Interop.dll
+C:\CoverageConverter\CoverageConverter\obj\Debug\CoverageConverter.csprojAssemblyReference.cache
+C:\CoverageConverter\CoverageConverter\obj\Debug\CoverageConverter.csproj.CoreCompileInputs.cache
+C:\CoverageConverter\CoverageConverter\obj\Debug\CoverageConverter.csproj.CopyComplete
+C:\CoverageConverter\CoverageConverter\obj\Debug\CoverageConverter.exe
+C:\CoverageConverter\CoverageConverter\obj\Debug\CoverageConverter.pdb
