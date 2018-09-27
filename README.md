@@ -21,7 +21,6 @@ Testresults
       
   -> other directories
   
- //------------------------------------------- 
  //---------command---------------------------
  
  ~$ CoverageConverter.exe Joshuavandenbor_TI803HDJ90
